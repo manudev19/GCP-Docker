@@ -23,7 +23,7 @@ Build and run using Docker Compose:
 
 Hello world!
 
-## Configuration#####
+## Configuration
 
 |Environment Variable|Default|Description|
 |:-----:|:-----:|:----------|
